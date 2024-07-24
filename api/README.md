@@ -9,7 +9,7 @@ composer install
 
 Create the database and run the migrate
 ```shell
-php artisan migrate install
+php artisan migrate
 ```
 
 # Run Project
